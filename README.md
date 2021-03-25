@@ -13,6 +13,6 @@ hypotheses of the problem(s) and recommend ways to improve them.
 #### 2. Car Price Prediction Assignment
 <b>Objective:</b> The aim of this assignment is to model the price of the cars which will be used by the management to understand the KPIs and pricing dynamincs of the market.
 <p align="left">
-  <img src="Image/Car Price Company Name.png" width="200">
+  <img src="Image/Car Price Company name.png" width="300">
   <img src="Image/UberSuppyGapTimeslot.png" width="200">
 </p>
