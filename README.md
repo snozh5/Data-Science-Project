@@ -15,3 +15,11 @@ hypotheses of the problem(s) and recommend ways to improve them.
 <p align="left">
   <img src="Image/Car Price Company name.png" width="300">
 </p>
+
+
+#### 3. House Price Prediction Assignment
+<b>Objective:</b> The aim of this assignment is to find out the important variables that affect the price of the house and how those variables describe the price of the house.
+All of these need to be done using Ridge and Lasso Regression technique.
+<p align="left">
+  <img src="Image/House imp var.png" width="300">
+</p>
