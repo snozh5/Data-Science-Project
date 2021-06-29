@@ -1,4 +1,6 @@
-[![Pandas](https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg)](https://pandas.pydata.org/)
+<p align="center">
+<a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg" alt="Pandas" width="500"></a>
+</p>
 
 # Introduction to Pandas
 
