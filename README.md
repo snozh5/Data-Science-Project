@@ -31,12 +31,18 @@ Some of the ways to resolve the issue:-
   <img src="Image/Car Price Company name.png" width="400">
 </p>
 The above plot shows the Company name of different cars in the dataset.<br>
-<b>__Final Result:__</b>The model achieved a final R-square value of 88% which means the model the will do a decent good and able to find out the important KPIs.<br>
-So after iteration the final features left are Porsche (Company Name), Rear (Engine Location), Curbweight, Peugeot (Company Name), BMW (Company Name),Twelve (Cylinder Number). These are the important KPIs that are impacting the price of the car and hence the management can use to determine the pricing dynamics of the market. 
+<b>_Final Result:_</b>The model achieved a final R-square value of 88% which means the model the will do a decent good job and be able to find out the important KPIs.
+<br>
+So after iteration, the final features left are Porsche (Company Name), Rear (Engine Location), Curbweight, Peugeot (Company Name), BMW (Company Name),Twelve (Cylinder Number). These are the important KPIs that are impacting the price of the car and hence the management can use to determine the pricing dynamics of the market. 
 
 #### 3. [House Price Prediction Assignment](https://github.com/snozh5/Data-Science-Project/blob/main/Advanced%20Regression.ipynb)
-<b>Objective:</b> The aim of this assignment is to find out the important variables that affect the price of the house and how those variables describe the price of the house.
-All of these need to be done using Ridge and Lasso Regression technique.
+<b>Problem Statement:</b> The aim of this project is to find out the important variables that affect the price of the house and how those variables describe the price of the house.
+<br>
+<br>
+<b>Solution:</b> For this project I have used Ridge and Lasso algorithm which are also known as Advance Regression. What it does is they give us important features after the model is being trained.<br>
+A cross-validation GridSearchCV equal to 10 is used to determine the alpha value. For Ridge Regression alpha equal to 10 came out as best value and for Lasso an alpha vlue of 100.
+
 <p align="left">
   <img src="Image/House imp var.png" width="300">
 </p>
+The above plot shows the end result of important features for the Lasso model.
