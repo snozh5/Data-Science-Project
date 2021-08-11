@@ -66,7 +66,7 @@ preference and look-after for help financially.
 
 <b>Solution:</b>It's clear that is an unsupervised learning project so to cluster the countriues based on the given features K-means technique is used with different clusters also Heirarchical Clustering is being used for double check the result. Dimensionality reduction technique i.e. Priciple Component Analysis (PCA) is used in this project for the input features. 
 
-![PCA](https://github.com/snozh5/Data-Science-Project/blob/main/Image/variance%20(PCA).png)
+<img src="https://github.com/snozh5/Data-Science-Project/blob/main/Image/variance%20(PCA).png", width=500)
 
 The above plot is the screeplot to access the number of Principle Componet needed in order to gain.attain maximum variance. From the graph we observe that at 95% variance can be captured using five PCs.
 
