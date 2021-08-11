@@ -1,5 +1,6 @@
 # Data Science Project
-The projects in this repository are few of the academic project done for my diploma degree in Data Science.
+The projects in this repository are part pf my academic project done during my diploma degree in Data Science.
+> Please edit the dataset name after clonning present in the Dataset folder
 
 #### 1. [Uber Assignment](https://github.com/snozh5/Data-Science-Project/blob/main/Uber%20Assignment.ipynb)
 <b>Problem Statement:</b> The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and 
