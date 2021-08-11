@@ -32,9 +32,16 @@ Some of the ways to resolve the issue:-
   <img src="Image/Car Price Company name.png" width="400">
 </p>
 The above plot shows the Company name of different cars in the dataset.<br>
-The final result of the model achieved a final R-square value of 88% which means the model the will do a decent good job and be able to find out the important KPIs.
-<br>
-So after iteration, the final features left are Porsche (Company Name), Rear (Engine Location), Curbweight, Peugeot (Company Name), BMW (Company Name),Twelve (Cylinder Number). These are the important KPIs that are impacting the price of the car and hence the management can use to determine the pricing dynamics of the market. 
+The final result of the model achieved a final R-square value of 88% which means the model the will do a decent good job and be able to find out the important KPIs. So after iteration, the final features left are:-
+
+- Porsche (Company Name)
+- Rear (Engine Location)
+- Curbweigt
+- Peugeot (Company Name)
+- BMW (Company Name)
+- Twelve (Cylinder Number)
+
+These are the important KPIs that are impacting the price of the car and hence the management can use to determine the pricing dynamics of the market. 
 
 #### 3. [House Price Prediction Assignment](https://github.com/snozh5/Data-Science-Project/blob/main/Advanced%20Regression.ipynb)
 <b>Problem Statement:</b> The aim of this project is to find out the important variables that affect the price of the house and how those variables describe the price of the house.
