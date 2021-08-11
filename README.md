@@ -55,7 +55,7 @@ A cross-validation GridSearchCV equal to 10 is used to determine the alpha value
 </p>
 The above plot shows the end result of important features for the Lasso model.
 
-#### 3. [Clustering countries based on Socio-economic conditions](https://github.com/snozh5/Data-Science-Project/blob/main/Clustering%20and%20PCA%20.ipynb)
+#### 3. [Clustering Countries based on Socio-economic Conditions](https://github.com/snozh5/Data-Science-Project/blob/main/Clustering%20and%20PCA%20.ipynb)
 <b>Problem Statement:</b> HELP International is an international humanitarian NGO that is committed to fighting poverty and 
 providing the backward countries with the basic amenities. The job is to categories the countries using socio-economic 
 and health factors that determines the overall development of the country. To achieve that the countries are clustered by 
